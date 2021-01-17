@@ -5,5 +5,4 @@
 :cn: Shanghai, China
  - :octocat: Fullstack web artisan
  - :school: student
- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=admiral-thrawn)](https://github.com/admiral-thrawn)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=admiral-thrawn)](https://github.com/admiral-thrawn)
