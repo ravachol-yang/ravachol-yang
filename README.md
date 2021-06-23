@@ -3,9 +3,7 @@
 ### Hello there !!! 👋
 > May the force be with you,always!
 
-🔭 I’m currently working on  **The Star Wars Forum of China**
-
 :cn: Shanghai, China
- - :octocat: Fullstack web artisan __Web全栈工匠__
- - :school: student __学生__
+ - :octocat: web developer
+ - :school: student
 <p align="right">https://thrawn.vercel.app</p>
