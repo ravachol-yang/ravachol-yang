@@ -31,5 +31,6 @@
 **Platform**
 
 [![](https://img.shields.io/badge/-DigitalOcean-0167fe?style=flat-square&logo=digitalocean&logoColor=ffffff)](https://www.digitalocean.com/)
+[![](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=ffffff)](https://www.vercel.com/)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=ffffff)](https://www.vercel.com/)
 
