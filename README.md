@@ -34,3 +34,8 @@
 [![](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=ffffff)](https://www.vercel.com/)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=ffffff)](https://www.vercel.com/)
 
+**Social**
+
+[![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
+
+
