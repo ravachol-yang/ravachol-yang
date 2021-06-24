@@ -37,6 +37,6 @@
 **Social**
 
 [![](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
-[![](https://img.shields.io/badge/-Weibo-E6162D?style=flat-square&logo=sinaweibo&logoColor=ffffff)](https://space.bilibili.com/442263994)
+[![](https://img.shields.io/badge/-Weibo-E6162D?style=flat-square&logo=sinaweibo&logoColor=ffffff)](https://weibo.com/u/7632860561)
 
 
