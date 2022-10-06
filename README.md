@@ -16,7 +16,7 @@
 
 [![](https://img.shields.io/badge/-Linux-f2c63f?style=flat-square&logo=linux&logoColor=ffffff)](https://kernel.org/)
 [![](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
-[![](https://img.shields.io/badge/-Ruby-ff2d20?style=flat-square&logo=laravel&logoColor=ffffff)](https://php.net/)
+[![](https://img.shields.io/badge/-Ruby-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://php.net/)
 [![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Apache-f00?style=flat-square&logo=apache&logoColor=ffffff)](https://www.apache.org/) |
 [![](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=ffffff)](https://www.vuejs.org/)
