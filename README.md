@@ -15,11 +15,8 @@
 **Tech Stack**
 
 [![](https://img.shields.io/badge/-Linux-f2c63f?style=flat-square&logo=linux&logoColor=ffffff)](https://kernel.org/)
-[![](https://img.shields.io/badge/-PHP-8892bf?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
 [![](https://img.shields.io/badge/-Ruby%20on%20Rails-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.com/)
-[![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Apache-f00?style=flat-square&logo=apache&logoColor=ffffff)](https://www.apache.org/) |
-[![](https://img.shields.io/badge/-node.js-026e00?style=flat-square&logo=node.js&logoColor=ffffff)](https://www.nodejs.org/)
+[![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)|
 [![](https://img.shields.io/badge/-Tailwind%20CSS-1fccec?style=flat-square&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/) |
 [![](https://img.shields.io/badge/-PostgreSQL-346891?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Redis-a51f17?style=flat-square&logo=redis&logoColor=ffffff)](https://www.redis.com/)
