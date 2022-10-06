@@ -13,7 +13,7 @@
 **Stack**
 
 [![](https://img.shields.io/badge/-Linux-f2c63f?style=flat-square&logo=linux&logoColor=ffffff)](https://kernel.org/)
-[![](https://img.shields.io/badge/-Ruby%20on%20Rails-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.com/)
+[![](https://img.shields.io/badge/-Ruby%20on%20Rails-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)|
 [![](https://img.shields.io/badge/-PostgreSQL-346891?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Redis-a51f17?style=flat-square&logo=redis&logoColor=ffffff)](https://www.redis.com/)
