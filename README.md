@@ -5,12 +5,12 @@
 
 :cn: Shanghai, China
 
-**Developing Environment**
+**Environment**
 
 [![](https://img.shields.io/badge/Desktop-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Server-Debian%2011-dd4814?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
 
-**Tech Stack**
+**Stack**
 
 [![](https://img.shields.io/badge/-Linux-f2c63f?style=flat-square&logo=linux&logoColor=ffffff)](https://kernel.org/)
 [![](https://img.shields.io/badge/-Ruby%20on%20Rails-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.com/)
