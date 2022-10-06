@@ -25,7 +25,7 @@
 
 **Social**
 
-[![](https://img.shields.io/badge/Bilibili-Ravachol-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
-[![](https://img.shields.io/badge/Telegram-Ravachol-E6162D?style=flat-square&logo=telegram&logoColor=ffffff)](https://weibo.com/u/7632860561)
+[![](https://img.shields.io/badge/Bilibili-Ravachol-E6162D?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
+[![](https://img.shields.io/badge/Telegram-Ravachol-00A1D6?style=flat-square&logo=telegram&logoColor=ffffff)](https://weibo.com/u/7632860561)
 
 
