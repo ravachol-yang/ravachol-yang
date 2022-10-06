@@ -10,7 +10,7 @@
 **Developing Environment**
 
 [![](https://img.shields.io/badge/Desktop-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Server-Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/Server-Debian%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.debian.org/)
 
 **Tech Stack**
 
