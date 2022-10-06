@@ -6,12 +6,9 @@
 :cn: Shanghai, China
 
 **Environment**
-
 [![](https://img.shields.io/badge/Desktop-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Server-Debian%2011-dd4814?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
-
 **Stack**
-
 [![](https://img.shields.io/badge/-Linux-f2c63f?style=flat-square&logo=linux&logoColor=ffffff)](https://kernel.org/)
 [![](https://img.shields.io/badge/-Ruby%20on%20Rails-ff2d20?style=flat-square&logo=rubyonrails&logoColor=ffffff)](https://rubyonrails.org/)
 [![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)|
@@ -19,12 +16,9 @@
 [![](https://img.shields.io/badge/-Redis-a51f17?style=flat-square&logo=redis&logoColor=ffffff)](https://www.redis.com/)
 
 **Platform**
-
 [![](https://img.shields.io/badge/-DigitalOcean-0167fe?style=flat-square&logo=digitalocean&logoColor=ffffff)](https://www.digitalocean.com/)
 [![](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=ffffff)](https://www.vercel.com/)
-
 **Social**
-
 [![](https://img.shields.io/badge/Bilibili-Ravachol-E6162D?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
 [![](https://img.shields.io/badge/Telegram-Ravachol-00A1D6?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/ravachol_yang)
 
