@@ -3,7 +3,7 @@
 ### Hello there !!! 👋
 > A Linux Fanboy **&** Btw I use Arch **&** I love Docker !!
 
-_(btw, Maybe an Anarchist)_
+_(btw, maybe an Anarchist)_
 
 :cn: Shanghai, China
 
