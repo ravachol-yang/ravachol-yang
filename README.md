@@ -4,8 +4,6 @@
 > May the force be with you,always!
 
 :cn: Shanghai, China
- - :octocat: web developer
- - :school: student
 
 **Developing Environment**
 
