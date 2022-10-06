@@ -1,8 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ravachol-yang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 
 ### Hello there !!! 👋
-> A Linux Fanboy | Btw I use arch & I love Docker !!
-> (Maybe an Anarchist)
+> A Linux Fanboy | Btw I use Arch & I love Docker !!
+
+_(Maybe an Anarchist)_
 
 :cn: Shanghai, China
 
