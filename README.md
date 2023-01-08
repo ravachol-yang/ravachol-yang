@@ -3,8 +3,6 @@
 ### Hello there !!! 👋
 > Linux Fanboy **&** Btw I use Arch **&** I love Docker
 
-_(btw, maybe an Anarchist 🏴‍☠️)_
-
 🧭 Shanghai, China
 
 [![](https://img.shields.io/badge/Desktop-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
