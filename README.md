@@ -7,9 +7,9 @@ A student from Shanghai who is keen on trying out new technologies, reading Phil
 🧭 Shanghai, China
 
 ### My Tech Stack
-| <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/docker.svg">  | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/go.svg"> | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/nodedotjs.svg"> | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/javascript.svg"> | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/gnubash.svg"> | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/python.svg"> | <img height="28" src="https://github.com/soulteary/soulteary/raw/master/assets/img/php.svg"> |
+|||| <img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg"> || <img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg"> |
 | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
-| Arch | Ubuntu | Ruby | KDE | JavaScript | BASH | Python | PHP |
+| Arch | Ubuntu | KDE | Docker | Ruby | Python |
 
 ### My social links
 [![](https://img.shields.io/badge/Bilibili-Ravachol-E6162D?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
