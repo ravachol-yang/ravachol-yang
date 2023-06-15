@@ -8,7 +8,7 @@ A student from Shanghai who is keen on trying out new technologies, reading Phil
 
 ### My Tech Stack
 |||| <img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg"> || <img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg"> |
-| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
 | Arch | Ubuntu | KDE | Docker | Ruby | Python |
 
 ### My social links
