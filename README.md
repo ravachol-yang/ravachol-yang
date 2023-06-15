@@ -8,7 +8,7 @@ A student from Shanghai who is keen on trying out new technologies, reading Phil
 
 ### My Tech Stack
 
-|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/arch.svg">|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/debian.svg">|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/kde.svg">|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg">|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/ruby.svg">|<img height="28" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/python.svg">|
+|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/arch.svg">|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/debian.svg">|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/KDE.svg">|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/docker.svg">|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/ruby.svg">|<img height="32" src="https://github.com/ravachol-yang/ravachol-yang/raw/master/assets/img/python.svg">|
 |:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |Arch|Debian|KDE|Docker|Ruby|Python|
 
