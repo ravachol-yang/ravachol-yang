@@ -14,6 +14,6 @@ A student from Shanghai who is keen on trying out new technologies, reading Phil
 
 ### My social links
 [![](https://img.shields.io/badge/Bilibili-Ravachol-E6162D?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
-[![](https://img.shields.io/badge/Telegram-Ravachol-00A1D6?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/ravachol_yang)
+[![](https://img.shields.io/badge/Telegram-Ravachol-00A1D6?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/ravachol_y)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=835379d82fb8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
