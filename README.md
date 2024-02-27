@@ -1,13 +1,18 @@
 ### Hello there !!!
 
 ``` shell
-> help --info
+$ whoami
+> ravachol
+```
+
+``` shell
+$ help --info
 > A student who is interested in Computer Science and Philosophy
 > ** However my skills are poor **
 > ^-^
 ```
 ``` shell
-> help --contact
+$ help --contact
 > Telegram: @ravachol_y
 ```
 
