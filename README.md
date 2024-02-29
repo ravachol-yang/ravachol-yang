@@ -7,7 +7,7 @@ $ whoami
 
 ``` shell
 $ help --info
-> A student who is interested in Computer Science and Philosophy
+> A student who is interested in Computer Science, Philosophy & Magick
 > ** However my skills are poor **
 > ^-^
 ```
