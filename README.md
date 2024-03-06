@@ -14,6 +14,7 @@ $ help --info
 ``` shell
 $ help --contact
 > Telegram: @ravachol_y
+> E-Mail: ravachol.yang@gmail.com
 ```
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=835379d82fb8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
